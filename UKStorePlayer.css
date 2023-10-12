@@ -1,0 +1,33 @@
+.video-js {
+  height: 344px;
+  width: 610px;
+  margin: 0 auto;
+}
+.wrap {
+  border: 5px solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  text-align: center;
+}
+.theFormInput {
+  border-radius: 8px;
+  color: #000;
+  width: 100% !important;
+}
+.theForm {
+  margin-top: 15px;
+  padding: 5px;
+  background-color: red;
+  border: none;
+  margin-top: 20px;
+  width: 100%;
+}
+.vjs-modal-dialog-content {
+  font-size: 1.5625rem;
+  line-height: 1.5;
+  padding: 20px 24px;
+  z-index: 1;
+}
